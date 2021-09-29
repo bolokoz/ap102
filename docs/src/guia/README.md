@@ -2,7 +2,6 @@
 sidebar: auto
 ---
 
-
 # Guia Rápido
 
 ::: tip Dica
@@ -30,7 +29,6 @@ Mapa com rodovia BA-030
 
 ![Mapa](../images/loc_mapa.jpg)
 
-
 ## O condomínio
 
 ### Fachada
@@ -53,7 +51,6 @@ Favor estacionar nas vagas ??????
 
 Foto da garagem
 
-
 ## Entrando no Apto
 
 Caso deseje fazer um check-in completo, acessar [este link](/checkin)
@@ -62,11 +59,11 @@ Caso deseje fazer um check-in completo, acessar [este link](/checkin)
 
 1 - Para acionar a **fechadura eletrônica**, encoste a parte de trás da mão sobre a tela até ela acender. Pode ser que precise de mais de uma tentativa
 
-2 - Assim que acender, digite **4488 e aperte # para confirmar**
+2 - Assim que acender, digite **4488 e aperte \* para confirmar**
 
 ::: warning Câmera
 
-**Desligar a câmera ao lado da TV** 
+**Desligar a câmera ao lado da TV**
 
 Conforme descrito no [check-in](/checkin), esta câmera wifi serve para acompanharmos prestadores de serviços remotamente e deve ser religada ao fazer o [check-out](/checkout).
 
@@ -91,9 +88,7 @@ Não tem tomada 110V
 
 :::
 
-
 ## Mais informações
 
 Este foi o guia rápido.
 Para mais informações sobre o apartamento [clique aqui](checkin)
-

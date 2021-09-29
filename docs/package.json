@@ -10,7 +10,7 @@
   "repository": "bolokoz/ap102",
   "scripts": {
     "dev": "vuepress dev src",
-    "build": "vuyarn deepress build src"
+    "build": "yarn vuepress build src"
   },
   "license": "MIT",
   "devDependencies": {
